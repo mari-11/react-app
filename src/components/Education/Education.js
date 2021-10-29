@@ -24,7 +24,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                 <h2 >Higher Education  <span>2014-2016</span></h2>
-                                                <p>I have completed my higher education from UCSC with major in Legal Studies </p>
+                                                <p>I have completed my higher education from UCSC with a major in Legal Studies. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -34,18 +34,18 @@ class Education extends Component {
                                                 <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                <h2 >current Student <span>Present</span></h2>
-                                                <p>I'm currently completing my coding certificate from <a href='http://TRILIOGYLINKHERE'>Trilogy</a>. </p>
+                                                <h2 >Student at Trilogy <span>Present</span></h2>
+                                                <p>pending<a href='http://sliet.ac./'>pending</a>. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
                                         <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible ={true}>
                                             <article>
                                                 <div className={`${classes.timeline_icon} ${classes.timeline_icon_4}`} >
-                                                    <Work />     
+                                                    <MdWork />     
                                                 </div>
                                                 <div className={classes.label}>
-                                                <h2 >pending</h2>
+                                                <h2 >Internship</h2>
                                                 <p>pending</p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div  className={classes.timeline_icon_3||classes.color_none}></div></div>
