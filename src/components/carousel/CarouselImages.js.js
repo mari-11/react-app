@@ -18,7 +18,7 @@ import laptop1 from '../images/laptop1.jpg'
                 <div  className={classes.image_container} >
                     <img className={classes.image} src={Hello}  alt="myImage"/>
                     <div  className={classes.h1}>
-                       <h1 >I'm Sachin</h1>
+                       <h1 >I'm Mari</h1>
                        <a href="https://drive.google.com/open?id=#'sPENDINGLINK" rel="opener noreferrer" target="_blank">VIEW CV   <FaArrowCircleDown/></a>
                     </div>
                 </div>
